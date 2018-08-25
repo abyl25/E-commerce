@@ -1,0 +1,3 @@
+template/* linguist-vendored
+* linguist-vendored
+*.php linguist-vendored=false
